@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_cloud_queue_black_24dp"
+            android:title="Cuaca" />
+        <item
+            android:id="@+id/nav_suhu"
+            android:icon="@drawable/ic_colorize_black_24dp"
+            android:title="Suhu" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_insert_chart_black_24dp"
+            android:title="Statistik" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_view_module_black_24dp"
+            android:title="Tabel" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_notifications_none_black_24dp"
+            android:title="Notification" />
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="About Us" />
+    </group>
+
+
+</menu>
